@@ -1,6 +1,6 @@
 const zeroPad = (num, places) => String(num).padStart(places, "0");
 
-const imageDiff = 3;
+const imageDiff = 1;
 const value = 1674;
 let imagesArr = [
   {
